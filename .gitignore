@@ -120,5 +120,6 @@ bin/
 src/**/.DS_Store
 logs/
 .classpath
+.gradle
 
 
